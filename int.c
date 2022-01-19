@@ -6,7 +6,7 @@ int main(void){
   b = 4;
   c = -3;
 
-  printf("a = %d", a);    //変数をprintfで表示させたいときは左のようにする(%何とかはint,float等の型によって変わる
+  printf("a = %d", a);    //変数をprintfで表示させたいときは左のようにする(%何とかはint,float等の型によって変わる)
   
   d = a + b + c;
   printf("a + b + c = %d\n", d);  //\nは改行するという意
